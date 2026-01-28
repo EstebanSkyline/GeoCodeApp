@@ -1,0 +1,10 @@
+{
+  "httpMethod": "GET",
+  "path": "/geocode",
+  "queryStringParameters": {
+    "address": "1600 Amphitheatre Parkway, Mountain View, CA"
+  },
+  "headers": {},
+  "body": null,
+  "isBase64Encoded": false
+}
